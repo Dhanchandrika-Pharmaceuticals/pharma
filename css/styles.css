@@ -1,0 +1,129 @@
+#title{
+
+    background-color: #519872;
+}
+
+.container-fluid{
+  padding: 3% 5% 7%;
+}
+
+.navbar{
+  font-family: 'Laila', serif;
+}
+
+body{
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
+}
+
+/* Title Text */
+.heading-div{
+  text-align: center;
+  padding: 7% 15%;
+  font-family: 'Montserrat', sans-serif;
+}
+h1{
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+.heading-div-midh2{
+  font-family: 'Merriweather', serif;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  padding : 10px 0 10px;;
+}
+
+/* Features */
+
+#features{
+  text-align: center;
+  color: #519872;
+}
+
+.feature-image:hover{
+  color: #158467;
+}
+
+/* TEAMS */
+#team{
+  background-color: #519872;
+  text-align: center;
+  color: white;
+  padding: 3% 5%;
+
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+.team-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+/* PRODUCT */
+
+#product{
+  text-align: center;
+  padding: 5% 10%;
+  color: #519872;
+}
+
+.card{
+  margin-top: 20px;
+}
+
+.product-heading{
+  padding-bottom: 5%;
+}
+.card-title{
+  font-weight: bolder;
+}
+.card-text-list{
+  text-align: left;
+}
+#Storex{
+  color: #a35d6a;
+}
+#Livkal{
+  color: red;
+}
+
+/* ABOUT */
+#about{
+
+  background-color: #519872;
+  color: white;
+  text-align: center;
+  padding: 7% 0 3%;
+}
+.about-text{
+  padding: 7% 15%;
+  line-height: 3;
+}
+#about .about-head-mid{
+  line-height: 2;
+  font-size: 2.5rem;
+}
+#about .about-head-lower{
+  line-height: 1.5;
+  padding-top: 20px;
+
+}
+
+/* FOOTER */
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+  color: #519872;
+}
+
+.contact-icon{
+  margin: 20px 10px;
+}
+
+.email-link{
+  color: #519872;
+}
+.breaker{
+  margin: 20px 10px;
+}
